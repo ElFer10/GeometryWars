@@ -1,0 +1,2 @@
+-I/usr/local/Cellar/sfml/2.6.1/include
+-L/usr/local/Cellar/sfml/2.6.1/lib
